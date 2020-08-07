@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
+title: Jacob Hutchinson
 twitter_username: rob_hinds
-name: Rob Hinds
+name: Jacob Hutchinson
 
 # Build settings
 markdown: kramdown
@@ -63,7 +63,7 @@ coursera:
 #      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
- - rickardstureborg/speech-commands
+  - rickardstureborg/speech-commands
 
 #Stackoverflow flair is optional
 #stackoverflow:
