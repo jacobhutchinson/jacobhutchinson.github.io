@@ -63,6 +63,7 @@ coursera:
 #      conference: W-JAX Conference, Munich 2017 (London 2017)
 
 #List of interesting Github repo/projects to include - optional
+github:
   - rickardstureborg/speech-commands
 
 #Stackoverflow flair is optional
