@@ -22,10 +22,14 @@ skills:
  - PyTorch
  - Keras
  - NLTK
+ - Spacy
+ - SciKit Learn
  - Python
  - R
  - SQL
+ - NoSQL
  - Jupyter
+ - NumPy
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default
@@ -108,4 +112,4 @@ intro: |
 # An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>NLP Speech Commands</strong>: Description goes here</a>.<br/><br/>
-   <strong>Job Site Scraper and Visualizer</strong>: Description goes here</a>.<br/><br/>
+   <strong>Job Site Scraper and Visualizer</strong>: Description goes here</a>.
