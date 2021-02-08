@@ -31,7 +31,7 @@ roles:
    start: 2017
    end: 2017
    employer: United States Air Force Research Lab
-   description: Worked for United States Air Force Research Lab in Rome, NY for a six month internship with Top Secret clearance. Much is covered under N.D.A., but I can say I worked and learned primarily Machine Learning during my time trhere.
+   description: Worked for United States Air Force Research Lab in Rome, NY with the Satellite Team for a six month internship with Top Secret clearance. During that time I helped develop and reasearch Machine Learning approaches to technical question answering and other problems and gained insight from world-class researchers.
 
 #Education is required
 education:
@@ -63,7 +63,7 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
-  - rickardstureborg/speech-commands
+  - jacobhutchinson/speech-commands
   - jacobhutchinson/Job-Site-Web-Scraper
 
 #Stackoverflow flair is optional
