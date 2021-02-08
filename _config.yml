@@ -56,7 +56,7 @@ coursera:
       link: https://www.coursera.org/learn/neural-networks-deep-learning
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
       date: October 13, 2020
-    - title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    - title: Improving Deep Neural Networks
       link: https://www.coursera.org/learn/deep-neural-network
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
       date: October 15, 2020
