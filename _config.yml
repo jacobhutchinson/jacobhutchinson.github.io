@@ -52,6 +52,26 @@ coursera:
       link: https://www.coursera.org/learn/machine-learning/
       optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1&w=&h=
       date: February 19, 2020
+    - title: Neural Networks and Deep Learning
+      link: https://www.coursera.org/learn/neural-networks-deep-learning
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
+      date: October 13, 2020
+    - title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+      link: https://www.coursera.org/learn/deep-neural-network
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
+      date: October 15, 2020
+    - title: Structuring Machine Learning Projects
+      link: https://www.coursera.org/learn/machine-learning-projects
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
+      date: October 17, 2020
+    - title: Convolutional Neural Networks
+      link: https://www.coursera.org/learn/convolutional-neural-networks
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
+      date: December 3, 2020
+    - title: Sequence Models
+      link: https://www.coursera.org/learn/nlp-sequence-models
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/57/4be3fd8d16487ab9cfa7bba909b236/GreyLogoName1000x1000.png?auto=format%2Ccompress&dpr=2&w=100&h=100&fit=crop
+      date: January 25, 2021
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
