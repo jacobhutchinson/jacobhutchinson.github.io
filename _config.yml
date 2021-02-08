@@ -39,6 +39,10 @@ education:
    date: 2020
    subject: Computer Science
    school: Northeastern University
+ - level: Deep Learning Specialization
+   date: 2021
+   subject: DeepLearning.ai
+   school: Coursera.org
 
 #This section is optional (as is the image link below)
 coursera:
